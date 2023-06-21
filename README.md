@@ -1,4 +1,4 @@
-# Surival-Analysis
+# Survival-Analysis
 
 This project is made to play around with some survival analysis methods.
 
